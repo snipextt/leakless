@@ -9,4 +9,5 @@ var targets = []utils.Target{
 	"darwin/amd64",
 	"darwin/arm64",
 	"windows/amd64",
+	"windows/386",
 }
